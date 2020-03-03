@@ -31,6 +31,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="F:\Treinamento\curso-angular-rest-spring-boot-api-master\7.9-desafio-atualizacao-lancamento\algamoney-api"/>
 			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\7.9-desafio-atualizacao-lancamento\algamoney-api"/>
 			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\7.9-desafio-atualizacao-lancamento"/>
 			<item value="C:\Diretorio Personalizado\Cursos\Fullstack Angular e Spring AlgaWorks\7 Deploy da API em produção"/>
@@ -45,7 +46,6 @@
 			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.1 Criando a migracao e entidade de lancamento"/>
 			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\3.1 Criando o projeto da API\algamoney-api"/>
 			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api"/>
-			<item value="C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.7 Movendo o refresh token para o cookie\algamoney-api"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

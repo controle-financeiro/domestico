@@ -1,6 +1,0 @@
-
-]squid:S2160
-"+Override the "equals" method in this class.(îêôÿüÿÿÿÿHêRMINORZ
-CODE_SMELL
-^squid:S1948")Make "usuario" transient or serializable.(ÂÌ±ÑûÿÿÿÿHëRCRITICALZ
-CODE_SMELL
