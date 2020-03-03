@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.algamoney.api.token.RefreshToken&apos; to &apos;RefreshTokenCookiePreProcessorFilter&apos;&#x0D;&#x0A;- Original project: &apos;algamoney-api&apos;&#x0D;&#x0A;- Original element: &apos;com.example.algamoney.api.token.RefreshToken&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.algamoney.api.token.RefreshTokenCookiePreProcessorFilter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RefreshToken&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.example.algamoney.api.token{RefreshToken.java[RefreshToken" matchStrategy="1" name="RefreshTokenCookiePreProcessorFilter" qualified="false" references="true" similarDeclarations="false" stamp="1541610869048" textual="false" version="1.0"/>
+</session>

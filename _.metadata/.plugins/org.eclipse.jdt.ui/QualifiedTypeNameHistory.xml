@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.media.webkitAudioContext"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.aspectj.weaver.ast.And"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.http.SessionCreationPolicy"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.example.algamoney.api.config.ResourceServerConfig"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="io.undertow.servlet.api.AuthorizationManager"/>
+<fullyQualifiedTypeName name="org.springframework.security.authentication.AuthenticationManager"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.InMemoryTokenStore"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.TokenStore"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.oauth2.resource.JwtAccessTokenConverterRestTemplateCustomizer"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtTokenStore"/>
+</qualifiedTypeNameHistroy>

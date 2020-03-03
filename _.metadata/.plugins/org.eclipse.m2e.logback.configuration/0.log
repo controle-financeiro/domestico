@@ -1,0 +1,384 @@
+2018-10-18 08:36:07,654 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.8 Movendo o refresh token do cookie para a requisicao\algamoney-api\pom.xml.
+2018-10-18 08:36:09,686 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/main/java
+2018-10-18 08:36:09,687 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:36:09,688 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:36:09,689 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/test/java
+2018-10-18 08:36:10,217 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-10-18 08:36:13,063 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:36:13,068 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 08:36:13,084 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 08:36:13,121 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:36:13,122 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.8 Movendo o refresh token do cookie para a requisicao\algamoney-api\src\test\resources
+2018-10-18 08:38:00,248 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.8 Movendo o refresh token do cookie para a requisicao\algamoney-api\pom.xml.
+2018-10-18 08:38:01,519 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:38:01,522 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 08:38:01,533 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 08:38:01,536 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:38:01,536 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.8 Movendo o refresh token do cookie para a requisicao\algamoney-api\src\test\resources
+2018-10-18 08:42:03,387 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api\pom.xml.
+2018-10-18 08:42:04,694 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/main/java
+2018-10-18 08:42:04,694 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:42:04,695 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:42:04,697 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/test/java
+2018-10-18 08:42:05,267 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-10-18 08:42:06,875 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:42:06,876 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 08:42:06,892 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 08:42:06,897 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:42:06,897 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api\src\test\resources
+2018-10-18 08:43:59,537 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api\pom.xml.
+2018-10-18 08:44:00,788 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:44:00,790 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 08:44:00,804 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 08:44:00,809 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:44:00,809 [Worker-21: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api\src\test\resources
+2018-10-18 08:48:47,574 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-10-18 08:48:54,236 [Worker-23: Launching algamoney-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api
+2018-10-18 08:48:54,238 [Worker-23: Launching algamoney-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2018-10-18 08:50:13,248 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:50:13,249 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 08:50:13,250 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 08:50:13,255 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:50:13,255 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.10 Criando filtro para CORS\algamoney-api\src\test\resources
+2018-10-18 08:51:15,666 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references non-existing project algamoney-api.
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references non-existing project algamoney-api.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-18 08:51:15,670 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references non-existing project algamoney-api.
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references non-existing project algamoney-api.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-18 08:51:15,677 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references non-existing project algamoney-api.
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references non-existing project algamoney-api.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2148) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:378) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:255) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:225) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:183) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-18 08:51:45,927 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-18 08:51:48,154 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/main/java
+2018-10-18 08:51:48,155 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:51:48,156 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-18 08:51:48,158 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/test/java
+2018-10-18 08:51:51,481 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2018-10-18 08:51:57,749 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:51:57,750 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 08:51:57,766 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 08:51:57,824 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 08:51:57,824 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 13:29:01,945 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-18 13:29:24,399 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:24,448 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 13:29:24,481 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 13:29:24,542 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:24,542 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 13:43:18,547 [Worker-28: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:43:18,552 [Worker-28: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 13:43:18,554 [Worker-28: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 13:43:18,558 [Worker-28: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:43:18,558 [Worker-28: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 14:19:43,369 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:19:43,374 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 14:19:43,378 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 14:19:43,382 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:19:43,382 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 14:26:46,748 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-18 14:26:48,206 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:26:48,208 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 14:26:48,209 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 14:26:48,212 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:26:48,212 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 14:26:52,628 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:26:52,631 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 14:26:52,647 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 14:26:52,670 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 14:26:52,671 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 15:00:23,096 [Worker-50: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:00:23,100 [Worker-50: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 15:00:23,108 [Worker-50: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 15:00:23,112 [Worker-50: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:00:23,113 [Worker-50: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 15:06:51,569 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:06:51,572 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 15:06:51,576 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 15:06:51,581 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:06:51,581 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-18 15:07:24,950 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:07:24,952 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 15:07:24,956 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-18 15:07:24,960 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 15:07:24,960 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-19 08:35:41,420 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-19 08:35:41,453 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-19 08:35:41,465 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-19 08:35:41,519 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-19 08:35:41,520 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 15:38:31,999 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 15:38:32,029 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 15:38:32,042 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 15:38:32,104 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 15:38:32,105 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 15:46:32,519 [Worker-27: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-22 15:54:47,008 [Worker-28: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-22 16:06:02,563 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\pom.xml.
+2018-10-22 16:06:03,528 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:06:03,534 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:06:03,552 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:06:03,577 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:06:03,577 [Worker-29: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 16:07:23,391 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:07:23,394 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:07:23,398 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:07:23,402 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:07:23,402 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 16:15:11,709 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:15:11,712 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:15:11,717 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:15:11,721 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:15:11,722 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 16:23:09,508 [Worker-26: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:23:09,512 [Worker-26: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:23:09,519 [Worker-26: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:23:09,525 [Worker-26: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:23:09,525 [Worker-26: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 16:39:15,652 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:39:15,655 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:39:15,659 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:39:15,663 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:39:15,663 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-22 16:49:10,646 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:49:10,650 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-22 16:49:10,655 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-22 16:49:10,659 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-22 16:49:10,660 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-23 08:13:17,404 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 08:13:17,494 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-23 08:13:17,517 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-23 08:13:17,584 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 08:13:17,584 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-24 10:49:29,151 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 10:49:29,181 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 10:49:29,194 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 10:49:29,264 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 10:49:29,264 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-24 11:03:13,485 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 11:03:13,491 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 11:03:13,496 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 11:03:13,501 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 11:03:13,501 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-24 15:35:24,834 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:35:24,843 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 15:35:24,859 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 15:35:24,885 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:35:24,885 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\test\resources
+2018-10-24 15:44:00,765 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references closed project algamoney-api
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references closed project algamoney-api
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-24 15:44:00,783 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references closed project algamoney-api
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references closed project algamoney-api
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-24 15:44:00,791 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tomcat.1 references closed project algamoney-api
+org.eclipse.core.runtime.CoreException: Launch configuration Tomcat.1 references closed project algamoney-api
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2148) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:378) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:255) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:225) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:183) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-10-24 15:45:11,768 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 15:45:13,966 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/main/java
+2018-10-24 15:45:13,967 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-24 15:45:13,973 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algamoney-api/src/main/resources
+2018-10-24 15:45:13,982 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algamoney-api/src/test/java
+2018-10-24 15:45:14,474 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-10-24 15:45:16,121 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:45:16,122 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 15:45:16,137 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 15:45:16,166 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:45:16,166 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 15:45:18,311 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:45:18,313 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 15:45:18,314 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 15:45:18,316 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:45:18,317 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 15:50:21,825 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 15:50:23,362 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:50:23,365 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 15:50:23,379 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 15:50:23,382 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:50:23,382 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 15:50:26,137 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:50:26,141 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 15:50:26,146 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 15:50:26,169 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 15:50:26,170 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 16:21:09,051 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 16:21:09,058 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 16:21:09,069 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-24 16:21:09,204 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 16:21:09,205 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 16:50:08,394 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 16:56:32,829 [Worker-28: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 16:56:33,995 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 16:56:33,997 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 16:56:33,997 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 16:56:34,000 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 16:56:34,000 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 17:03:17,293 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:03:17,295 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:03:17,295 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:03:17,299 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:03:17,299 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 17:06:14,508 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:06:14,509 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:06:14,509 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:06:14,513 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:06:14,513 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 17:10:39,802 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 17:10:40,856 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:10:40,858 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:10:40,858 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:10:40,862 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:10:40,862 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-24 17:11:51,893 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:1.0.0-SNAPSHOT @ C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\pom.xml.
+2018-10-24 17:11:52,806 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:11:52,807 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:11:52,808 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 17:11:52,810 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 17:11:52,811 [Worker-37: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-26 13:08:27,564 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 13:08:27,737 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 13:08:27,791 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-26 13:08:27,841 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 13:08:27,842 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-26 17:23:39,670 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 17:23:39,689 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 17:23:39,690 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 17:23:39,696 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 17:23:39,696 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources
+2018-10-26 17:25:46,140 [Worker-64: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 17:25:46,141 [Worker-64: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 17:25:46,142 [Worker-64: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 17:25:46,146 [Worker-64: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 17:25:46,146 [Worker-64: Launching algamoney-api - AlgamoneyApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Diretorio Personalizado\Treinamento\curso-angular-rest-spring-boot-api-master\6.3 Implementando a seguranca com oauth2\algamoney-api\src\test\resources

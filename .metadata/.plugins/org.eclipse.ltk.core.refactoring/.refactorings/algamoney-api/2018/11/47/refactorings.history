@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;algamoney-api/src/main/resources/db/migration/V04_cirar_e_registrar_usuarios_e_permissoes.sql&apos; to &apos;V04__cirar_e_registrar_usuarios_e_permissoes.sql&apos;" description="Rename resource &apos;V04_cirar_e_registrar_usuarios_e_permissoes.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/db/migration/V04_cirar_e_registrar_usuarios_e_permissoes.sql" name="V04__cirar_e_registrar_usuarios_e_permissoes.sql" stamp="1542892454593" updateReferences="true"/>
+</session>

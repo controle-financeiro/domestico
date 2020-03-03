@@ -1,0 +1,5 @@
+heroku
+
+Set HTTPS_PROXY=https://10.0.1.32:3128
+
+set HTTP_PROXY=http://10.0.1.32:3128
