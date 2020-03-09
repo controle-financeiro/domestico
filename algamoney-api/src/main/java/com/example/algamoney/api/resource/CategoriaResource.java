@@ -23,7 +23,7 @@ import com.example.algamoney.api.repository.CategoriaRepository;
 
 @RestController
 @RequestMapping("/categorias")
-public class CategoriaResource {d
+public class CategoriaResource {
 
 	@Autowired
 	private CategoriaRepository categoriaRepository;
